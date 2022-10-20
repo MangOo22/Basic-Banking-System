@@ -1,4 +1,6 @@
-#Basic Banking System made by Neha Kumavat. This is my internship Project which is completed under The Sparks Foundation GRIPAUGUST21 batch. My role of the internship is of web developer and my task is to make a simple dynamic website of the banking system which I have completed successfully. This Web Application is used to transfer money between multiple users.  
+#Basic Banking System made by Ahmed Nageh.
+
+This is my internship Project which is completed under The Sparks Foundation. My role of the internship is of web developer and my task is to make a simple dynamic website of the banking system which I have completed successfully. This Web Application is used to transfer money between multiple users.  
 
 Stack used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
